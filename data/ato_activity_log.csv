@@ -1,0 +1,3 @@
+timestamp,user_id,status,risk_score,risk_level,device_known,location_known,amount,amount_deviation,time_since_previous_transaction,transaction_frequency
+2026-09-17 15:40:12,U0001,ATO / Suspicious,0.9066,CRITICAL,Unknown,Unknown,60000.0,1.15,83.36,0.01
+2026-09-17 15:41:21,U0001,ATO / Suspicious,0.5785,CRITICAL,Known,Unknown,80000.0,1.87,83.36,0.01
